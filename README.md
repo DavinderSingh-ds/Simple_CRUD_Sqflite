@@ -2,8 +2,8 @@
 
 A Simple CRUD operations using Sqflite  
 
-Author : Davinder Singh 
-Instagram Id : @ gamophobian__gent
+Author : Davinder Singh ,
+Instagram Id : gamophobian__gent,
 Linkedin Id: https://www.linkedin.com/in/davinder-singh-b80b88203/
 
 ## Getting Started

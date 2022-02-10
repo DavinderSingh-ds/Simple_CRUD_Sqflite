@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 
 import 'Database/database.dart';
 import 'Model/model.dart';
-import 'category_list.dart';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage(

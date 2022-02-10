@@ -1,10 +1,12 @@
 # crud_database
 
-A new Flutter project.
+A Simple CRUD operations using Sqflite  
+
+Author : Davinder Singh 
+Instagram Id : @ gamophobian__gent
+Linkedin Id: https://www.linkedin.com/in/davinder-singh-b80b88203/
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
